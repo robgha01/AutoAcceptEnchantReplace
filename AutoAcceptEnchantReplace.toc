@@ -1,0 +1,5 @@
+## Interface: 30300
+## Title: AutoAcceptEnchantReplace
+## Author: fixed by Areasis made by Banith@Icecrown
+
+AutoAcceptEnchantReplace.lua
